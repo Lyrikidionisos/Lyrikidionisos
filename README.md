@@ -1,4 +1,4 @@
-<img width="1200" height="400" alt="Bannergithubethan" src="https://github.com/user-attachments/assets/e4a29035-e7a2-4d49-b16c-cdefd1cbca1b" />
+<img width="1200" height="200" alt="Bannergithub" src="https://github.com/user-attachments/assets/66caa02c-539e-4f37-959a-8dcc77a936c2" />
 
 # Who Am I?
 - <img width="350" height="20" alt="Ethan" src="https://github.com/user-attachments/assets/29d61518-b369-4a84-a009-be712737969a" />
