@@ -4,4 +4,5 @@
 - My name is Ethan
 - Chief Operative of MagicChatbox
 - Business Development Specialist
-- University Student
+-  <img width="200" height="20" alt="University" src="https://github.com/user-attachments/assets/b5a928cd-1714-4323-b514-1dcf6550b712" />
+
